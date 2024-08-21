@@ -1,2 +1,2 @@
-# cab-products
-Projecto CAB Products
+# cap-products
+Projecto CAP Products
